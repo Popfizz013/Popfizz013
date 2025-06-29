@@ -1,4 +1,4 @@
-![Header](IMG_8972.jpg)
+![Header](IMG_8972.png)
 
 <p align="center">
   <a href="mailto:degandliam013@gmail.com">
