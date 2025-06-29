@@ -1,4 +1,4 @@
-(IMG_8972.png)
+![Header](IMG_8972.jpg)
 
 <p align="center">
   <a href="mailto:degandliam013@gmail.com">
@@ -70,7 +70,7 @@ Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Ar
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Popfizz013&show_icons=true&theme=radical" alt="Liam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Popfizz013&show_icons=true&theme=radical" alt="Liam's GitHub Stats" />
 </p>
 
 ---
