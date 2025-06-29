@@ -1,31 +1,31 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Liam%20Degand&fontSize=40&fontAlignY=35)
+![Header](IMG_8972.jpg)
 
 <p align="center">
   <a href="mailto:degandliam013@gmail.com">
     <img src="https://img.shields.io/badge/email-degandliam013%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/liam-degand-800592276/">
     <img src="https://img.shields.io/badge/linkedin-profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/YOUR-GITHUB-HERE">
+  <a href="https://github.com/Popfizz013">
     <img src="https://img.shields.io/badge/github-profile-black?style=flat-square&logo=github" alt="GitHub">
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi, I’m **Liam Degand**, a third-year Computer Science student at the University of Victoria specializing in networks and communication. I’m passionate about learning new technologies and building impactful projects. Currently diving deeper into operating systems and computability theory.
 
-🌎 Based in Victoria, BC, Canada  
-💻 Mainly work with **Python**, **C**, **Java**, HTML/CSS/JS, and have experience with tools like **Apache Airflow**, **MongoDB**, **AWS**, and **GNU Radio**.  
-🌐 Fluent in English and French, conversational in Spanish.  
-🎨 In my spare time, you’ll find me cooking, hiking, surfing, or enjoying other outdoor activities.
+Based in Victoria, BC, Canada  
+Mainly work with **Python**, **C**, **Java**, HTML/CSS/JS, and have experience with tools like **Apache Airflow**, **MongoDB**, **AWS**, and **GNU Radio**.  
+Fluent in English and French, conversational in Spanish.  
+In my spare time, you’ll find me cooking, hiking, surfing, or enjoying other outdoor activities.
 
 ---
 
-## 🚀 Experience Highlights
+## Experience Highlights
 
 - **Full Stack Developer Co-op @ National Research Council (May 2025 – Present)**
   - Built features, debugged, and triaged a staff portal using MUI, React, Node.js, and C# for middleware connected to SQL databases.
@@ -43,7 +43,7 @@ Hi, I’m **Liam Degand**, a third-year Computer Science student at the Universi
 
 ---
 
-## 📚 Education
+## Education
 
 **Bachelor of Science in Computer Science**  
 University of Victoria, BC (Sep 2022 – Present)  
@@ -51,14 +51,14 @@ Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Ar
 
 ---
 
-## ✨ Volunteering
+## Volunteering
 
 - **Let’s Talk Science (Feb – Apr 2025)**: Presented STEM programs to high school students, including quantum computing topics.
 - **Engineering and Computer Science Student Society, UVic (Sep 2024 – Present)**: Helped foster a supportive space for fellow students.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages**: Python, C, Java, Assembly, Bash, SQL, R
 - **Web**: HTML, CSS, Node.js, React, MUI
@@ -67,7 +67,7 @@ Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Ar
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HERE&show_icons=true&theme=radical" alt="Liam's GitHub Stats" />
@@ -75,7 +75,35 @@ Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Ar
 
 ---
 
-## 🔗 Fun Fact & Profile Tips
+## Social Links with Icons
+
+```jsx
+// Import social icons
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import EmailIcon from '@mui/icons-material/Email';
+import GitHubIcon from '@mui/icons-material/GitHub';
+
+// Example usage for a React component:
+const SocialLinks = () => (
+  <div>
+    <a href="mailto:degandliam013@gmail.com">
+      <EmailIcon />
+    </a>
+    <a href="https://www.linkedin.com/in/liam-degand-800592276/">
+      <LinkedInIcon />
+    </a>
+    <a href="https://github.com/Popfizz013">
+      <GitHubIcon />
+    </a>
+  </div>
+);
+
+export default SocialLinks;
+```
+
+---
+
+## Fun Fact & Profile Tips
 
 > Inspired by [@M0nica’s profile](https://github.com/M0nica) — a perfect example of a README that blends personal touch with professional highlights.
 
@@ -83,4 +111,4 @@ Want to create your own? Check out [@M0nica’s blog post on GitHub profile READ
 
 ---
 
-Thanks for visiting my profile! 😊 Feel free to reach out or connect!
+Thanks for visiting my profile! Feel free to reach out or connect!
