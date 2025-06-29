@@ -16,11 +16,11 @@
 
 ## About Me
 
-Hi, I’m **Liam Degand**, a third-year Computer Science student at the University of Victoria specializing in networks and communication. I’m passionate about learning new technologies and building impactful projects. Currently diving deeper into operating systems and computability theory.
+Hi, I’m **Liam Degand**, a fourth-year Computer Science student at the University of Victoria specializing in networks and communication. I’m passionate about learning new technologies and building impactful projects. Currently diving deeper into front end development, NLP's and API's as part of my co-op with the National Research Canada (NRC).
 
 Based in Victoria, BC, Canada  
-Mainly work with **Python**, **C**, **Java**, HTML/CSS/JS, and have experience with tools like **Apache Airflow**, **MongoDB**, **AWS**, and **GNU Radio**.  
-Fluent in English and French, conversational in Spanish.  
+Mainly work with **Python**, **C**, **Java**, **HTML/CSS/JS**, and have experience with tools like **Apache Airflow**, **MongoDB**, **AWS**, and **GNU Radio**.  
+Fluent in English and French.  
 In my spare time, you’ll find me cooking, hiking, surfing, or enjoying other outdoor activities.
 
 ---
@@ -36,7 +36,7 @@ In my spare time, you’ll find me cooking, hiking, surfing, or enjoying other o
   - Learned and applied Apache Airflow, AWS, MongoDB, and created Python scripts to streamline bug fixing.
 
 - **Communications Lead @ UVic Satellite Club (Jan 2025 – Present)**
-  - Leading a team to design and implement a satellite communication protocol based on UDP with enhancements like clear channel avoidance and random backoff.
+  - Leading a team to design and implement a satellite communication protocol based on UDP.
 
 - **Hackathon Participant @ AWS DeepRacer (Nov 2024)**
   - Collaborated on optimizing reward functions for AI racing, managing the repo workflow, and implementing features.
@@ -47,7 +47,7 @@ In my spare time, you’ll find me cooking, hiking, surfing, or enjoying other o
 
 **Bachelor of Science in Computer Science**  
 University of Victoria, BC (Sep 2022 – Present)  
-Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Architecture, Technical Writing.
+Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Architecture, Technical Writing, and many more.
 
 ---
 
@@ -70,36 +70,8 @@ Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Ar
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Popfizz013&show_icons=true&theme=radical" alt="Liam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Popfizz013&show_icons=true&theme=radical" alt="Liam's GitHub Stats" style="width:100%;" />
 </p>
-
----
-
-## Social Links with Icons
-
-```jsx
-// Import social icons
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import EmailIcon from '@mui/icons-material/Email';
-import GitHubIcon from '@mui/icons-material/GitHub';
-
-// Example usage for a React component:
-const SocialLinks = () => (
-  <div>
-    <a href="mailto:degandliam013@gmail.com">
-      <EmailIcon />
-    </a>
-    <a href="https://www.linkedin.com/in/liam-degand-800592276/">
-      <LinkedInIcon />
-    </a>
-    <a href="https://github.com/Popfizz013">
-      <GitHubIcon />
-    </a>
-  </div>
-);
-
-export default SocialLinks;
-```
 
 ---
 
