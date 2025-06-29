@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="mailto:degandliam013@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" style="width:24px;height:24px;margin:0 8px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" style="width:15px;height:15px;margin:10 8px;">
   </a>
   <a href="https://www.linkedin.com/in/liam-degand-800592276/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="width:24px;height:24px;margin:0 8px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="width:15px;height:15px;margin:10 8px;">
   </a>
   <a href="https://github.com/Popfizz013">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="width:24px;height:24px;margin:0 8px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="width:15px;height:15px;margin:10 8px;">
   </a>
 </p>
 
