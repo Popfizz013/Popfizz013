@@ -53,17 +53,17 @@ Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Ar
 
 ## Volunteering
 
-- **Let’s Talk Science (Feb – Apr 2025)**: Presented STEM programs to high school students, including quantum computing topics.
-- **Engineering and Computer Science Student Society, UVic (Sep 2024 – Present)**: Helped foster a supportive space for fellow students.
+- **Let’s Talk Science (Feb – Apr 2025):** Presented STEM programs to high school students, including quantum computing topics.
+- **Engineering and Computer Science Student Society, UVic (Sep 2024 – Present):** Helped foster a supportive space for fellow students.
 
 ---
 
 ## Tech Stack
 
-- **Languages**: Python, C, Java, Assembly, Bash, SQL, R
-- **Web**: HTML, CSS, Node.js, React, MUI
-- **Tools & Platforms**: Git, AWS, Azure, MongoDB, Apache Airflow, GNU Radio
-- **OS**: Linux, Windows
+- **Languages:** Python, C, Java, Assembly, Bash, SQL, R
+- **Web:** HTML, CSS, Node.js, React, MUI
+- **Tools & Platforms:** Git, AWS, Azure, MongoDB, Apache Airflow, GNU Radio
+- **OS:** Linux, Windows
 
 ---
 
@@ -75,11 +75,10 @@ Relevant Courses: Operating Systems, Digital Logic, Computer Theory, Computer Ar
 
 ---
 
-## Fun Fact & Profile Tips
+## Inspiration
 
-> Inspired by [@M0nica’s profile](https://github.com/M0nica) — a perfect example of a README that blends personal touch with professional highlights.
-
-Want to create your own? Check out [@M0nica’s blog post on GitHub profile READMEs](https://dev.to/github/creating-a-profile-readme-1k56) and use [@anuraghazra’s github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to show off your contributions.
+> Inspired by [@M0nica’s profile](https://github.com/M0nica) — a perfect example of a README that blends personal touch with professional highlights.  
+> Inspired by [@anuraghazra’s profile](https://github.com/anuraghazra) — a nifty tool for showcasing your GitHub statistics.
 
 ---
 
